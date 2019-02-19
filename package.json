@@ -1,0 +1,29 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/browser": "^4.6.1",
+    "@sentry/node": "^4.6.2",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "console": "^0.7.2",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "module": "^1.2.5",
+    "net": "^1.0.2",
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "tls": "^0.0.1"
+  }
+}
